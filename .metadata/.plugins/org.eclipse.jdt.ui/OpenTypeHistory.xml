@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=javalesson/src&lt;com.chainsys.interfaces{Calculator.java[Calculator" modifiers="513" timestamp="1650429624079"/>
+    <typeInfo handle="=javalesson/D:\/Java Training SW\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.sql.rowset=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;javax.sql.rowset(CachedRowSet.class[CachedRowSet" modifiers="1537" timestamp="1626848500000"/>
+    <typeInfo handle="=javalesson/src&lt;com.chainsys.interfaces{Ivehicle.java[Ivehicle" modifiers="513" timestamp="1650449936885"/>
+    <typeInfo handle="=javalesson/src&lt;com.chainsys.interfaces{InterfaceA.java[InterfaceA" modifiers="513" timestamp="1650428965699"/>
+    <typeInfo handle="=javalesson/src&lt;com.chainsys.interfaces{InterfaceB.java[InterfaceB" modifiers="513" timestamp="1650371616232"/>
+    <typeInfo handle="=javalesson/src&lt;com.chainsys.interfaces{InterfaceC.java[InterfaceC" modifiers="513" timestamp="1650426723051"/>
+    <typeInfo handle="=javalesson/D:\/Java Training SW\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.lang(Comparable.class[Comparable" modifiers="1537" timestamp="1626848500000"/>
+    <typeInfo handle="=javalesson/D:\/Java Training SW\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1626848500000"/>
+    <typeInfo handle="=javalesson/D:\/Java Training SW\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1626848500000"/>
+</typeInfoHistroy>

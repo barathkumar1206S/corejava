@@ -1,0 +1,10 @@
+package com.chainsys.jdbconnetivity;
+
+public class JdbcPs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
