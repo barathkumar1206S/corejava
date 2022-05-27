@@ -9,7 +9,7 @@ public class TestCar {
 		c1.move();
 		
 		Vehicle v1=new Vehicle("");
-		v1.Regno="TN22X5678";
+		v1.Regno="TN22X5679";
 		v1.move();
 		
 		Vehicle innova=new Vehicle("TN22X5679");

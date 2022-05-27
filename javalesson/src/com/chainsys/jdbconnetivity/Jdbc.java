@@ -21,7 +21,7 @@ public class Jdbc {
 			Statement stmt=con.createStatement();  
 			  
 			//step4 execute query  
-			ResultSet rs=stmt.executeQuery("Create table FileTable(id number,name varchar(20))");  
+		//	ResultSet rs=stmt.executeQuery("Create table FileTable(id number,name varchar(20))");  
 		//	while(rs.next())  
 			//System.out.println(rs.getInt(1)+"  "+rs.getString(2)+"  "+rs.getString(3));  
 			  
